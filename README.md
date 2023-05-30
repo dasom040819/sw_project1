@@ -1,4 +1,2 @@
 # sw_project1
-
-I'm daso
-sssm
+서다솜 20233053
